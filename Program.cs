@@ -8,6 +8,7 @@ namespace projeto_teste
         {
             Console.WriteLine("Bom dia");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Tenha um bom dia");
             Console.ReadLine();
             
         }
