@@ -1,0 +1,13 @@
+C:\Users\Bianca Sales\source\repos\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.exe
+C:\Users\Bianca Sales\source\repos\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.deps.json
+C:\Users\Bianca Sales\source\repos\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.runtimeconfig.json
+C:\Users\Bianca Sales\source\repos\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.runtimeconfig.dev.json
+C:\Users\Bianca Sales\source\repos\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.dll
+C:\Users\Bianca Sales\source\repos\projeto-teste\bin\Debug\netcoreapp3.1\projeto-teste.pdb
+C:\Users\Bianca Sales\source\repos\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.csprojAssemblyReference.cache
+C:\Users\Bianca Sales\source\repos\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.csproj.CoreCompileInputs.cache
+C:\Users\Bianca Sales\source\repos\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.AssemblyInfoInputs.cache
+C:\Users\Bianca Sales\source\repos\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.AssemblyInfo.cs
+C:\Users\Bianca Sales\source\repos\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.dll
+C:\Users\Bianca Sales\source\repos\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.pdb
+C:\Users\Bianca Sales\source\repos\projeto-teste\obj\Debug\netcoreapp3.1\projeto-teste.genruntimeconfig.cache
